@@ -1,2 +1,0 @@
-# raymarching
-have a look
